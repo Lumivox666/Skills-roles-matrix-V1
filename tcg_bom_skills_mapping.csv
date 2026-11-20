@@ -1,0 +1,138 @@
+﻿Module,Category,BOM Prefix,Part Number,Description,BOM Path(s),BOM Reference(s),Immediate Parent(s),Classification for review,SOP Status
+Scanner,Sub-Assemblies,INASS,INASS025,Soft Mount Washer + M6 PEM,1.1.1.5,BO00466,SA096 — Scanner Base Assembly,,Not checked
+Scanner,Sub-Assemblies,INASS,INASS026,Mini PC Housing Support Plate + PEM,1.1.1.6,BO00466,SA096 — Scanner Base Assembly,,Not checked
+Scanner,Sub-Assemblies,INASS,INASS028,Lower MPC I/O Bracket + PEM,1.1.1.7,BO00466,SA096 — Scanner Base Assembly,,Not checked
+Scanner,Sub-Assemblies,INASS,INASS021,Rear LAN Port Cover + PEM,1.1.11.3,BO00477,SSA004 — MPC I/O Vent,,Not checked
+Scanner,Sub-Assemblies,INASS,INASS022,Upper MPC I/O Bracket + PEM,1.1.11.4,BO00477,SSA004 — MPC I/O Vent,,Not checked
+Scanner,Sub-Assemblies,INASS,INASS023,Mini PC Housing Side Panel Upper Back Mount + PEM,1.1.12.4,BO00478,SSA005 — MPC Housing Side Panel Vent (Back Wall),,Not checked
+Scanner,Sub-Assemblies,INASS,INASS024,Mini PC Housing Side Panel Upper Back Mount + PEM,1.1.12.5; 1.1.13.3,BO00478; BO00479,SSA005 — MPC Housing Side Panel Vent (Back Wall); SSA006 — MPC Housing Side Panel Vent (Front Wall),,Not checked
+Scanner,Sub-Assemblies,INASS,INASS029,MPC Wiring Bracket Base + PEM,1.2.9,BO00150,SA087 — Mini PC Base,,Not checked
+Scanner,Sub-Assemblies,INASS,INASS017,Portal of Smoke and Mystery + PEM,1.3.1.17,BO00432,SA093 — Motherboard Base PR6,,Not checked
+Scanner,Sub-Assemblies,INASS,INASS016,Motherboard Bracket + PEM,1.3.1.18.2,BO00561,SSA014 — MB Bracket + Aluminum Cover,,Not checked
+Scanner,Sub-Assemblies,INASS,INASS011,SBX Back Wall Taco Bar + PEM,1.3.2.13.20,BO00390,"SA084 — SB Back Wall Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,INASS,INASS012,SBX Card Exit Lower Taco Guide Front Wall + PEM,1.3.2.13.21,BO00390,"SA084 — SB Back Wall Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,INASS,INASS013,SBX Front Wall Taco Bar + PEM,1.3.2.14.14,BO00393,"SA086 — SB Front Wall Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,INASS,INASS014,SBX Card Exit Lower Taco Guide Back Wall + PEM,1.3.2.14.15,BO00393,"SA086 — SB Front Wall Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,INASS,INASS015,Foot Mount + PEM,1.3.2.15.2.8,BO00114,"SA047 — Foot Mount Assembly, PR4",,Not checked
+Scanner,Sub-Assemblies,INASS,INASS020,Dream Catcher Mount + PEM,1.3.2.44.3,BO00476,SSA003 — Dream Catcher,,Not checked
+Scanner,Sub-Assemblies,INASS,INASS018,SBX Pulley Housing + Nut,1.3.2.51,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,INASS,INASS019,SBX Pulley Housing Front Cap + Bearing,1.3.2.52,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SSA,SSA015,Soft Mount Washer Insert,1.1.1.8,BO00466,SA096 — Scanner Base Assembly,,Not checked
+Scanner,Sub-Assemblies,SSA,SSA004,MPC I/O Vent,1.1.11,SA037,"SA037 — Scan Blaster Housing, MA-01_PR4",,Not checked
+Scanner,Sub-Assemblies,SSA,SSA005,MPC Housing Side Panel Vent (Back Wall),1.1.12,SA037,"SA037 — Scan Blaster Housing, MA-01_PR4",,Not checked
+Scanner,Sub-Assemblies,SSA,SSA006,MPC Housing Side Panel Vent (Front Wall),1.1.13,SA037,"SA037 — Scan Blaster Housing, MA-01_PR4",,Not checked
+Scanner,Sub-Assemblies,SSA,SSA014,MB Bracket + Aluminum Cover,1.3.1.18,BO00432,SA093 — Motherboard Base PR6,,Not checked
+Scanner,Sub-Assemblies,SSA,SSA013,Camera Bracket with Foil LEDs,1.3.2.12.4,BO00389,"SA083 — Lower Camera Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SSA,SSA003,Dream Catcher,1.3.2.44,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA037,"Scan Blaster Housing, MA-01_PR4",1.1,BO00546,MA01_PR7 — PR7 Scan Blaster Module,,Not checked
+Scanner,Sub-Assemblies,SA,SA096,Scanner Base Assembly,1.1.1,SA037,"SA037 — Scan Blaster Housing, MA-01_PR4",,Not checked
+Scanner,Sub-Assemblies,SA,SA087,Mini PC Base,1.2,BO00546,MA01_PR7 — PR7 Scan Blaster Module,,Not checked
+Scanner,Sub-Assemblies,SA,SA097,Mini PC Power Supply,1.2.1,BO00150,SA087 — Mini PC Base,,Not checked
+Scanner,Sub-Assemblies,SA,SA088,"Scan Blaster Upper Assembly, PR5",1.3,BO00546,MA01_PR7 — PR7 Scan Blaster Module,,Not checked
+Scanner,Sub-Assemblies,SA,SA093,Motherboard Base PR6,1.3.1,BO00395,"SA088 — Scan Blaster Upper Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA074,3A Fuse,1.3.1.5,BO00432,SA093 — Motherboard Base PR6,,Not checked
+Scanner,Sub-Assemblies,SA,SA085,"Scanning Bay Assembly, PR5",1.3.2,BO00395,"SA088 — Scan Blaster Upper Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA002,"Power Supply Base, SA-001",1.3.2.1,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA071,Power Receptacle Assembly,1.3.2.1.2,SA002,"SA002 — Power Supply Base, SA-001",,Not checked
+Scanner,Sub-Assemblies,SA,SA098,Positioning Belt Shaft Assembly,1.3.2.2,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA016,"Gear Driven Roller Assembly, SA-003, Rollers",1.3.2.3,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA018,"The Window of Destiny Assy, SA-003",1.3.2.4,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA022,Belt-driven Roller Assembly,1.3.2.5,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA023,"Feed Wheel Roller Assembly, SA-003, Rollers",1.3.2.6,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA007,Drive Wheel Assembly,1.3.2.6.1,SA023,"SA023 — Feed Wheel Roller Assembly, SA-003, Rollers",,Not checked
+Scanner,Sub-Assemblies,SA,SA027,"Card Landing Base, SA-003",1.3.2.7,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA034,"Camera Housing Cover, SA-003",1.3.2.8,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA053,"3DP M6, 12mm long,  Thumb Screw Assembly",1.3.2.8.2,SA034,"SA034 — Camera Housing Cover, SA-003",,Not checked
+Scanner,Sub-Assemblies,SA,SA060,"Lower LHS LED Assembly, PR5",1.3.2.9,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA061,"Lower RHS LED Assy, PR5",1.3.2.10,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA062,Upper Diffuser Assembly,1.3.2.11,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA083,"Lower Camera Assembly, PR5",1.3.2.12,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA084,"SB Back Wall Assembly, PR5",1.3.2.13,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA006,M1 Motor Assembly,1.3.2.13.2,BO00390,"SA084 — SB Back Wall Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA092,M2 Motor Assembly,1.3.2.13.3,BO00390,"SA084 — SB Back Wall Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA086,"SB Front Wall Assembly, PR5",1.3.2.14,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA089,PR5-Feed Fixer kit,1.3.2.15,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA045,Dial Adjustment Assembly,1.3.2.15.1,BO00396,SA089 — PR5-Feed Fixer kit,,Not checked
+Scanner,Sub-Assemblies,SA,SA047,"Foot Mount Assembly, PR4",1.3.2.15.2,BO00396,SA089 — PR5-Feed Fixer kit,,Not checked
+Scanner,Sub-Assemblies,SA,SA090,"Belt-driven Grabber Roller Assembly, PR5-6",1.3.2.16,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA091,"Gear-driven Grabber Roller Assembly, PR5-6",1.3.2.17,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA095,M3 Knob Screw,1.3.2.18,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA099,F100 Foil Detection Module,1.3.2.50,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA094,Static Brush Assembly SBX PR5 and Above,1.4,BO00546,MA01_PR7 — PR7 Scan Blaster Module,,Not checked
+Scanner,Sub-Assemblies,SA,SA039,"Hopper Wedge, FF2000, Assembly, SA001",1.5,BO00546,MA01_PR7 — PR7 Scan Blaster Module,,Not checked
+Scanner,Sub-Assemblies,SA,SA077,Tail Mount Bracket Assembly PR5,1.6,BO00546,MA01_PR7 — PR7 Scan Blaster Module,,Not checked
+Scanner,Sub-Assemblies,SA,SA078,Tail Assembly PR5,1.7,BO00546,MA01_PR7 — PR7 Scan Blaster Module,,Not checked
+Scanner,Sub-Assemblies,SA,SA055,"3DP M6, 21 mm long,  Thumb Screw Assembly",1.7.1; 1.9.4,BO00226; BO00242,"SA078 — Tail Assembly PR5; SA081 — Phat Tail Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,SA,SA079,Upper Bay Port Cover Assembly,1.8,BO00546,MA01_PR7 — PR7 Scan Blaster Module,,Not checked
+Scanner,Sub-Assemblies,SA,SA081,"Phat Tail Assembly, PR5",1.9,BO00546,MA01_PR7 — PR7 Scan Blaster Module,,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0023,3A Fuse Cable Assembly,1.3.1.5.1,BO00177,SA074 — 3A Fuse,,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0018,Motor Power - Negative,1.3.1.6,BO00432,SA093 — Motherboard Base PR6,,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0017,Motor Power - Positive,1.3.1.7,BO00432,SA093 — Motherboard Base PR6,,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0025,"Solenoid Cable Assembly, Scan Blaster-side",1.3.1.8,BO00432,SA093 — Motherboard Base PR6,,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0019,"Motor 3 Cable Assembly, Scan Blaster-side",1.3.1.9,BO00432,SA093 — Motherboard Base PR6,,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0001,"AC Power In, Ground",1.3.2.1.3,SA002,"SA002 — Power Supply Base, SA-001",,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0002,"AC Power In, PS Line",1.3.2.1.4,SA002,"SA002 — Power Supply Base, SA-001",,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0003,"AC Power In, PS Neutral",1.3.2.1.5,SA002,"SA002 — Power Supply Base, SA-001",,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0005,Mini-PC Power Cable Assembly,1.3.2.1.6,SA002,"SA002 — Power Supply Base, SA-001",,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0006,"Power Supply Out, Positive",1.3.2.1.7,SA002,"SA002 — Power Supply Base, SA-001",,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0008,"Rocker Switch to PCB ""12V""",1.3.2.1.8,SA002,"SA002 — Power Supply Base, SA-001",,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0010,Run LED Wire,1.3.2.1.9,SA002,"SA002 — Power Supply Base, SA-001",,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0011,Power LED Wire,1.3.2.1.10,SA002,"SA002 — Power Supply Base, SA-001",,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0004,Power Supply Ground,1.3.2.1.16,SA002,"SA002 — Power Supply Base, SA-001",,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0007,"Power Supply Out, Negative",1.3.2.1.17,SA002,"SA002 — Power Supply Base, SA-001",,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0009,Foil LED Wire,1.3.2.12.4.1,BO00550,SSA013 — Camera Bracket with Foil LEDs,,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0016,Photosensor 1 Cable,1.3.2.13.14,BO00390,"SA084 — SB Back Wall Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0012,Lower LED PCB Cable,1.3.2.42,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0013,Lower LED PCB Jumper,1.3.2.43,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0014,Upper LED PCB Cable,1.3.2.46,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0015,Upper LED PCB Jumper,1.3.2.47,BO00392,"SA085 — Scanning Bay Assembly, PR5",,Not checked
+Scanner,Sub-Assemblies,CAB,CAB0024,Static Brush Cable Assembly,1.4.6,BO00455,SA094 — Static Brush Assembly SBX PR5 and Above,,Not checked
+Scanner,Main Assembly,MA,MA01_PR7,PR7 Scan Blaster Module,1,BO00587,,,Not checked
+Conveyor,Sub-Assemblies,INASS,INASS006,Solenoid Bracket + PEM,3.2.7,BO00142,SA058 — Solenoids Housing,,Not checked
+Conveyor,Sub-Assemblies,INASS,INASS007,Motor Halo + PEM,3.24.13.4,BO00198,SA076 — Motor Halo,,Not checked
+Conveyor,Sub-Assemblies,SSA,SSA010,Conveyor Shell,3.24,BO00538,"MA02_PR7 — Conveyor Module, PR7",,Not checked
+Conveyor,Sub-Assemblies,SSA,SSA008,"Conveyor Front Wall (Taco bars, Metal fab, 3dp walls)",3.24.1,BO00536,SSA010 — Conveyor Shell,,Not checked
+Conveyor,Sub-Assemblies,SSA,SSA009,"Conveyor Back Wall (taco bars, metal fab, 3dp walls)",3.24.2,BO00536,SSA010 — Conveyor Shell,,Not checked
+Conveyor,Sub-Assemblies,SSA,SSA011,Motor Block Idler,3.25,BO00538,"MA02_PR7 — Conveyor Module, PR7",,Not checked
+Conveyor,Sub-Assemblies,SA,SA036,"M3 Conveyor Motor Assembly, MA-02",3.1,BO00538,"MA02_PR7 — Conveyor Module, PR7",,Not checked
+Conveyor,Sub-Assemblies,SA,SA058,Solenoids Housing,3.2,BO00538,"MA02_PR7 — Conveyor Module, PR7",,Not checked
+Conveyor,Sub-Assemblies,SA,SA052,"Solenoid Side Mounting, MA-02",3.2.2,BO00142,SA058 — Solenoids Housing,,Not checked
+Conveyor,Sub-Assemblies,SA,SA022,Belt-driven Roller Assembly,3.3; 3.24.4,BO00538; BO00536,"MA02_PR7 — Conveyor Module, PR7; SSA010 — Conveyor Shell",,Not checked
+Conveyor,Sub-Assemblies,SA,SA016,"Gear Driven Roller Assembly, SA-003, Rollers",3.4; 3.24.3,BO00538; BO00536,"MA02_PR7 — Conveyor Module, PR7; SSA010 — Conveyor Shell",,Not checked
+Conveyor,Sub-Assemblies,SA,SA067,3D Printed Front Bearing Wall #1,3.24.1.2,BO00534,"SSA008 — Conveyor Front Wall (Taco bars, Metal fab, 3dp walls)",,Not checked
+Conveyor,Sub-Assemblies,SA,SA068,3D Printed Front Bearing Wall #2,3.24.1.3,BO00534,"SSA008 — Conveyor Front Wall (Taco bars, Metal fab, 3dp walls)",,Not checked
+Conveyor,Sub-Assemblies,SA,SA069,3D Printed Front Bearing Wall #3,3.24.1.4,BO00534,"SSA008 — Conveyor Front Wall (Taco bars, Metal fab, 3dp walls)",,Not checked
+Conveyor,Sub-Assemblies,SA,SA070,3D Printed Front Bearing Wall #4,3.24.1.5,BO00534,"SSA008 — Conveyor Front Wall (Taco bars, Metal fab, 3dp walls)",,Not checked
+Conveyor,Sub-Assemblies,SA,SA063,3D Printed Back Bearing Wall #1,3.24.2.1,BO00533,"SSA009 — Conveyor Back Wall (taco bars, metal fab, 3dp walls)",,Not checked
+Conveyor,Sub-Assemblies,SA,SA064,3D Printed Back Bearing Wall #2,3.24.2.2,BO00533,"SSA009 — Conveyor Back Wall (taco bars, metal fab, 3dp walls)",,Not checked
+Conveyor,Sub-Assemblies,SA,SA065,3D Printed Back Bearing Wall #3,3.24.2.3,BO00533,"SSA009 — Conveyor Back Wall (taco bars, metal fab, 3dp walls)",,Not checked
+Conveyor,Sub-Assemblies,SA,SA066,3D Printed Back Bearing Wall #4,3.24.2.4,BO00533,"SSA009 — Conveyor Back Wall (taco bars, metal fab, 3dp walls)",,Not checked
+Conveyor,Sub-Assemblies,SA,SA073,King Flapper Assembly,3.24.5,BO00536,SSA010 — Conveyor Shell,,Not checked
+Conveyor,Sub-Assemblies,SA,SA107,"Belt-driven Roller Assembly, Steel Shaft",3.24.11,BO00536,SSA010 — Conveyor Shell,,Not checked
+Conveyor,Sub-Assemblies,SA,SA076,Motor Halo,3.24.13,BO00536,SSA010 — Conveyor Shell,,Not checked
+Conveyor,Sub-Assemblies,CAB,CAB0020,"Motor 3 Cable Assembly, Conveyor-side",3.1.12,SA036,"SA036 — M3 Conveyor Motor Assembly, MA-02",,Not checked
+Conveyor,Sub-Assemblies,CAB,CAB0022,"Solenoid Cable Assembly, Conveyor-side",3.23,BO00538,"MA02_PR7 — Conveyor Module, PR7",,Not checked
+Conveyor,Main Assembly,MA,MA02_PR7,"Conveyor Module, PR7",3,BO00587,,,Not checked
+Conveyor,Main Assembly,MA,MA03_PR6,Conveyor Cover Module,4,BO00587,,,Not checked
+Chassis,Sub-Assemblies,INASS,INASS004,Piston Top Cap + Nut,5.1.3.9,BO00529,SSA001 — Card Plunger,,Not checked
+Chassis,Sub-Assemblies,INASS,INASS001,Storage Box Hinge + PEM,5.14.10,BO00526,SSA007 — Storage Box Small Assembly,,Not checked
+Chassis,Sub-Assemblies,INASS,INASS031,Storage Base Hinge Mount + PEM,5.14.12,BO00526,SSA007 — Storage Box Small Assembly,,Not checked
+Chassis,Sub-Assemblies,INASS,INASS005,Piston Bracket + Nut,5.15,BO00525,"MA04_PR7 — Chassis Module, PR7",,Not checked
+Chassis,Sub-Assemblies,SSA,SSA001,Card Plunger,5.1.3,BO00243,"SA082 — Modular Spring Piston Assembly, MA-04",,Not checked
+Chassis,Sub-Assemblies,SSA,SSA007,Storage Box Small Assembly,5.14,BO00525,"MA04_PR7 — Chassis Module, PR7",,Not checked
+Chassis,Sub-Assemblies,SA,SA082,"Modular Spring Piston Assembly, MA-04",5.1,BO00525,"MA04_PR7 — Chassis Module, PR7",,Not checked
+Chassis,Sub-Assemblies,SA,SA049,"3DP M6, 18mm long,  Thumb Screw Assembly",5.14.2,BO00526,SSA007 — Storage Box Small Assembly,,Not checked
+Chassis,Main Assembly,MA,MA04_PR7,"Chassis Module, PR7",5,BO00587,,,Not checked
+Accessories & Hopper,Sub-Assemblies,SA,SA051,"Hopper Sliding Lid, MA-05",6.2,MA05,MA05 — Hopper Module,YES,Not checked
+Accessories & Hopper,Sub-Assemblies,SA,SA100,M3X16  Knob Screw,8.1.5; 8.10.9,BO00434; BO00575,MA011 — Bin 1 Module; KIT019 — Spare Parts Bento Box,YES,Not checked
+Accessories & Hopper,Sub-Assemblies,SA,SA081,"Phat Tail Assembly, PR5",8.10.3,BO00575,KIT019 — Spare Parts Bento Box,YES,Not checked
+Accessories & Hopper,Sub-Assemblies,SA,SA055,"3DP M6, 21 mm long,  Thumb Screw Assembly",8.10.3.4; 8.10.4.1; 10,BO00242; BO00226; BO00587,"SA081 — Phat Tail Assembly, PR5; SA078 — Tail Assembly PR5",YES,Not checked
+Accessories & Hopper,Sub-Assemblies,SA,SA078,Tail Assembly PR5,8.10.4,BO00575,KIT019 — Spare Parts Bento Box,YES,Not checked
+Accessories & Hopper,Sub-Assemblies,SA,SA053,"3DP M6, 12mm long,  Thumb Screw Assembly",8.10.7; 9,BO00575; BO00587,KIT019 — Spare Parts Bento Box,YES,Not checked
+Accessories & Hopper,Sub-Assemblies,SA,SA106,Roller cleaner,8.10.25,BO00575,KIT019 — Spare Parts Bento Box,YES,Not checked
+Accessories & Hopper,Sub-Assemblies,SA,SA104,Hopper guard RHS,8.12,BO00241,MA012 — Accessory Kit - PR5 and Up,YES,Not checked
+Accessories & Hopper,Sub-Assemblies,SA,SA105,Hopper guard LHS,8.13,BO00241,MA012 — Accessory Kit - PR5 and Up,YES,Not checked
+Accessories & Hopper,Sub-Assemblies,MA,MA05,Hopper Module,6,BO00587,,YES,Not checked
+Accessories & Hopper,Sub-Assemblies,MA,MA07,Card Weight Module,7; 8.14,BO00587; BO00241,MA012 — Accessory Kit - PR5 and Up,YES,Not checked
+Accessories & Hopper,Sub-Assemblies,MA,MA012,Accessory Kit - PR5 and Up,8,BO00587,,YES,Not checked
+Accessories & Hopper,Sub-Assemblies,MA,MA011,Bin 1 Module,8.1,BO00241,MA012 — Accessory Kit - PR5 and Up,YES,Not checked

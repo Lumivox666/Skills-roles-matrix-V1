@@ -1,0 +1,3941 @@
+{
+  "version": 1,
+  "sourceFile": "BO00587_indented.csv",
+  "skills": [
+    {
+      "id": "Scanner:INASS025",
+      "part": "INASS025",
+      "name": "Soft Mount Washer + M6 PEM",
+      "prefix": "INASS",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.1.1.5"
+      ],
+      "bomRefs": [
+        "BO00466"
+      ],
+      "parents": [
+        {
+          "part": "SA096",
+          "name": "Scanner Base Assembly"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:INASS026",
+      "part": "INASS026",
+      "name": "Mini PC Housing Support Plate + PEM",
+      "prefix": "INASS",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.1.1.6"
+      ],
+      "bomRefs": [
+        "BO00466"
+      ],
+      "parents": [
+        {
+          "part": "SA096",
+          "name": "Scanner Base Assembly"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:INASS028",
+      "part": "INASS028",
+      "name": "Lower MPC I/O Bracket + PEM",
+      "prefix": "INASS",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.1.1.7"
+      ],
+      "bomRefs": [
+        "BO00466"
+      ],
+      "parents": [
+        {
+          "part": "SA096",
+          "name": "Scanner Base Assembly"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:INASS021",
+      "part": "INASS021",
+      "name": "Rear LAN Port Cover + PEM",
+      "prefix": "INASS",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.1.11.3"
+      ],
+      "bomRefs": [
+        "BO00477"
+      ],
+      "parents": [
+        {
+          "part": "SSA004",
+          "name": "MPC I/O Vent"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:INASS022",
+      "part": "INASS022",
+      "name": "Upper MPC I/O Bracket + PEM",
+      "prefix": "INASS",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.1.11.4"
+      ],
+      "bomRefs": [
+        "BO00477"
+      ],
+      "parents": [
+        {
+          "part": "SSA004",
+          "name": "MPC I/O Vent"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:INASS023",
+      "part": "INASS023",
+      "name": "Mini PC Housing Side Panel Upper Back Mount + PEM",
+      "prefix": "INASS",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.1.12.4"
+      ],
+      "bomRefs": [
+        "BO00478"
+      ],
+      "parents": [
+        {
+          "part": "SSA005",
+          "name": "MPC Housing Side Panel Vent (Back Wall)"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:INASS024",
+      "part": "INASS024",
+      "name": "Mini PC Housing Side Panel Upper Back Mount + PEM",
+      "prefix": "INASS",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.1.12.5",
+        "1.1.13.3"
+      ],
+      "bomRefs": [
+        "BO00478",
+        "BO00479"
+      ],
+      "parents": [
+        {
+          "part": "SSA005",
+          "name": "MPC Housing Side Panel Vent (Back Wall)"
+        },
+        {
+          "part": "SSA006",
+          "name": "MPC Housing Side Panel Vent (Front Wall)"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:INASS029",
+      "part": "INASS029",
+      "name": "MPC Wiring Bracket Base + PEM",
+      "prefix": "INASS",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.2.9"
+      ],
+      "bomRefs": [
+        "BO00150"
+      ],
+      "parents": [
+        {
+          "part": "SA087",
+          "name": "Mini PC Base"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:INASS017",
+      "part": "INASS017",
+      "name": "Portal of Smoke and Mystery + PEM",
+      "prefix": "INASS",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.1.17"
+      ],
+      "bomRefs": [
+        "BO00432"
+      ],
+      "parents": [
+        {
+          "part": "SA093",
+          "name": "Motherboard Base PR6"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:INASS016",
+      "part": "INASS016",
+      "name": "Motherboard Bracket + PEM",
+      "prefix": "INASS",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.1.18.2"
+      ],
+      "bomRefs": [
+        "BO00561"
+      ],
+      "parents": [
+        {
+          "part": "SSA014",
+          "name": "MB Bracket + Aluminum Cover"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:INASS011",
+      "part": "INASS011",
+      "name": "SBX Back Wall Taco Bar + PEM",
+      "prefix": "INASS",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.13.20"
+      ],
+      "bomRefs": [
+        "BO00390"
+      ],
+      "parents": [
+        {
+          "part": "SA084",
+          "name": "SB Back Wall Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:INASS012",
+      "part": "INASS012",
+      "name": "SBX Card Exit Lower Taco Guide Front Wall + PEM",
+      "prefix": "INASS",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.13.21"
+      ],
+      "bomRefs": [
+        "BO00390"
+      ],
+      "parents": [
+        {
+          "part": "SA084",
+          "name": "SB Back Wall Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:INASS013",
+      "part": "INASS013",
+      "name": "SBX Front Wall Taco Bar + PEM",
+      "prefix": "INASS",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.14.14"
+      ],
+      "bomRefs": [
+        "BO00393"
+      ],
+      "parents": [
+        {
+          "part": "SA086",
+          "name": "SB Front Wall Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:INASS014",
+      "part": "INASS014",
+      "name": "SBX Card Exit Lower Taco Guide Back Wall + PEM",
+      "prefix": "INASS",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.14.15"
+      ],
+      "bomRefs": [
+        "BO00393"
+      ],
+      "parents": [
+        {
+          "part": "SA086",
+          "name": "SB Front Wall Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:INASS015",
+      "part": "INASS015",
+      "name": "Foot Mount + PEM",
+      "prefix": "INASS",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.15.2.8"
+      ],
+      "bomRefs": [
+        "BO00114"
+      ],
+      "parents": [
+        {
+          "part": "SA047",
+          "name": "Foot Mount Assembly, PR4"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:INASS020",
+      "part": "INASS020",
+      "name": "Dream Catcher Mount + PEM",
+      "prefix": "INASS",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.44.3"
+      ],
+      "bomRefs": [
+        "BO00476"
+      ],
+      "parents": [
+        {
+          "part": "SSA003",
+          "name": "Dream Catcher"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:INASS018",
+      "part": "INASS018",
+      "name": "SBX Pulley Housing + Nut",
+      "prefix": "INASS",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.51"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:INASS019",
+      "part": "INASS019",
+      "name": "SBX Pulley Housing Front Cap + Bearing",
+      "prefix": "INASS",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.52"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SSA015",
+      "part": "SSA015",
+      "name": "Soft Mount Washer Insert",
+      "prefix": "SSA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.1.1.8"
+      ],
+      "bomRefs": [
+        "BO00466"
+      ],
+      "parents": [
+        {
+          "part": "SA096",
+          "name": "Scanner Base Assembly"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SSA004",
+      "part": "SSA004",
+      "name": "MPC I/O Vent",
+      "prefix": "SSA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.1.11"
+      ],
+      "bomRefs": [
+        "SA037"
+      ],
+      "parents": [
+        {
+          "part": "SA037",
+          "name": "Scan Blaster Housing, MA-01_PR4"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SSA005",
+      "part": "SSA005",
+      "name": "MPC Housing Side Panel Vent (Back Wall)",
+      "prefix": "SSA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.1.12"
+      ],
+      "bomRefs": [
+        "SA037"
+      ],
+      "parents": [
+        {
+          "part": "SA037",
+          "name": "Scan Blaster Housing, MA-01_PR4"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SSA006",
+      "part": "SSA006",
+      "name": "MPC Housing Side Panel Vent (Front Wall)",
+      "prefix": "SSA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.1.13"
+      ],
+      "bomRefs": [
+        "SA037"
+      ],
+      "parents": [
+        {
+          "part": "SA037",
+          "name": "Scan Blaster Housing, MA-01_PR4"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SSA014",
+      "part": "SSA014",
+      "name": "MB Bracket + Aluminum Cover",
+      "prefix": "SSA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.1.18"
+      ],
+      "bomRefs": [
+        "BO00432"
+      ],
+      "parents": [
+        {
+          "part": "SA093",
+          "name": "Motherboard Base PR6"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SSA013",
+      "part": "SSA013",
+      "name": "Camera Bracket with Foil LEDs",
+      "prefix": "SSA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.12.4"
+      ],
+      "bomRefs": [
+        "BO00389"
+      ],
+      "parents": [
+        {
+          "part": "SA083",
+          "name": "Lower Camera Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SSA003",
+      "part": "SSA003",
+      "name": "Dream Catcher",
+      "prefix": "SSA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.44"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA037",
+      "part": "SA037",
+      "name": "Scan Blaster Housing, MA-01_PR4",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.1"
+      ],
+      "bomRefs": [
+        "BO00546"
+      ],
+      "parents": [
+        {
+          "part": "MA01_PR7",
+          "name": "PR7 Scan Blaster Module"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA096",
+      "part": "SA096",
+      "name": "Scanner Base Assembly",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.1.1"
+      ],
+      "bomRefs": [
+        "SA037"
+      ],
+      "parents": [
+        {
+          "part": "SA037",
+          "name": "Scan Blaster Housing, MA-01_PR4"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA087",
+      "part": "SA087",
+      "name": "Mini PC Base",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.2"
+      ],
+      "bomRefs": [
+        "BO00546"
+      ],
+      "parents": [
+        {
+          "part": "MA01_PR7",
+          "name": "PR7 Scan Blaster Module"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA097",
+      "part": "SA097",
+      "name": "Mini PC Power Supply",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.2.1"
+      ],
+      "bomRefs": [
+        "BO00150"
+      ],
+      "parents": [
+        {
+          "part": "SA087",
+          "name": "Mini PC Base"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA088",
+      "part": "SA088",
+      "name": "Scan Blaster Upper Assembly, PR5",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3"
+      ],
+      "bomRefs": [
+        "BO00546"
+      ],
+      "parents": [
+        {
+          "part": "MA01_PR7",
+          "name": "PR7 Scan Blaster Module"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA093",
+      "part": "SA093",
+      "name": "Motherboard Base PR6",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.1"
+      ],
+      "bomRefs": [
+        "BO00395"
+      ],
+      "parents": [
+        {
+          "part": "SA088",
+          "name": "Scan Blaster Upper Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA074",
+      "part": "SA074",
+      "name": "3A Fuse",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.1.5"
+      ],
+      "bomRefs": [
+        "BO00432"
+      ],
+      "parents": [
+        {
+          "part": "SA093",
+          "name": "Motherboard Base PR6"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA085",
+      "part": "SA085",
+      "name": "Scanning Bay Assembly, PR5",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2"
+      ],
+      "bomRefs": [
+        "BO00395"
+      ],
+      "parents": [
+        {
+          "part": "SA088",
+          "name": "Scan Blaster Upper Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA002",
+      "part": "SA002",
+      "name": "Power Supply Base, SA-001",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.1"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA071",
+      "part": "SA071",
+      "name": "Power Receptacle Assembly",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.1.2"
+      ],
+      "bomRefs": [
+        "SA002"
+      ],
+      "parents": [
+        {
+          "part": "SA002",
+          "name": "Power Supply Base, SA-001"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA098",
+      "part": "SA098",
+      "name": "Positioning Belt Shaft Assembly",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.2"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA016",
+      "part": "SA016",
+      "name": "Gear Driven Roller Assembly, SA-003, Rollers",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.3"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA018",
+      "part": "SA018",
+      "name": "The Window of Destiny Assy, SA-003",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.4"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA022",
+      "part": "SA022",
+      "name": "Belt-driven Roller Assembly",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.5"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA023",
+      "part": "SA023",
+      "name": "Feed Wheel Roller Assembly, SA-003, Rollers",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.6"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA007",
+      "part": "SA007",
+      "name": "Drive Wheel Assembly",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.6.1"
+      ],
+      "bomRefs": [
+        "SA023"
+      ],
+      "parents": [
+        {
+          "part": "SA023",
+          "name": "Feed Wheel Roller Assembly, SA-003, Rollers"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA027",
+      "part": "SA027",
+      "name": "Card Landing Base, SA-003",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.7"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA034",
+      "part": "SA034",
+      "name": "Camera Housing Cover, SA-003",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.8"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA053",
+      "part": "SA053",
+      "name": "3DP M6, 12mm long,  Thumb Screw Assembly",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.8.2"
+      ],
+      "bomRefs": [
+        "SA034"
+      ],
+      "parents": [
+        {
+          "part": "SA034",
+          "name": "Camera Housing Cover, SA-003"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA060",
+      "part": "SA060",
+      "name": "Lower LHS LED Assembly, PR5",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.9"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA061",
+      "part": "SA061",
+      "name": "Lower RHS LED Assy, PR5",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.10"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA062",
+      "part": "SA062",
+      "name": "Upper Diffuser Assembly",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.11"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA083",
+      "part": "SA083",
+      "name": "Lower Camera Assembly, PR5",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.12"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA084",
+      "part": "SA084",
+      "name": "SB Back Wall Assembly, PR5",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.13"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA006",
+      "part": "SA006",
+      "name": "M1 Motor Assembly",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.13.2"
+      ],
+      "bomRefs": [
+        "BO00390"
+      ],
+      "parents": [
+        {
+          "part": "SA084",
+          "name": "SB Back Wall Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA092",
+      "part": "SA092",
+      "name": "M2 Motor Assembly",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.13.3"
+      ],
+      "bomRefs": [
+        "BO00390"
+      ],
+      "parents": [
+        {
+          "part": "SA084",
+          "name": "SB Back Wall Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA086",
+      "part": "SA086",
+      "name": "SB Front Wall Assembly, PR5",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.14"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA089",
+      "part": "SA089",
+      "name": "PR5-Feed Fixer kit",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.15"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA045",
+      "part": "SA045",
+      "name": "Dial Adjustment Assembly",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.15.1"
+      ],
+      "bomRefs": [
+        "BO00396"
+      ],
+      "parents": [
+        {
+          "part": "SA089",
+          "name": "PR5-Feed Fixer kit"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA047",
+      "part": "SA047",
+      "name": "Foot Mount Assembly, PR4",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.15.2"
+      ],
+      "bomRefs": [
+        "BO00396"
+      ],
+      "parents": [
+        {
+          "part": "SA089",
+          "name": "PR5-Feed Fixer kit"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA090",
+      "part": "SA090",
+      "name": "Belt-driven Grabber Roller Assembly, PR5-6",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.16"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA091",
+      "part": "SA091",
+      "name": "Gear-driven Grabber Roller Assembly, PR5-6",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.17"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA095",
+      "part": "SA095",
+      "name": "M3 Knob Screw",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.18"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA099",
+      "part": "SA099",
+      "name": "F100 Foil Detection Module",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.50"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA094",
+      "part": "SA094",
+      "name": "Static Brush Assembly SBX PR5 and Above",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.4"
+      ],
+      "bomRefs": [
+        "BO00546"
+      ],
+      "parents": [
+        {
+          "part": "MA01_PR7",
+          "name": "PR7 Scan Blaster Module"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA039",
+      "part": "SA039",
+      "name": "Hopper Wedge, FF2000, Assembly, SA001",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.5"
+      ],
+      "bomRefs": [
+        "BO00546"
+      ],
+      "parents": [
+        {
+          "part": "MA01_PR7",
+          "name": "PR7 Scan Blaster Module"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA077",
+      "part": "SA077",
+      "name": "Tail Mount Bracket Assembly PR5",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.6"
+      ],
+      "bomRefs": [
+        "BO00546"
+      ],
+      "parents": [
+        {
+          "part": "MA01_PR7",
+          "name": "PR7 Scan Blaster Module"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA078",
+      "part": "SA078",
+      "name": "Tail Assembly PR5",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.7"
+      ],
+      "bomRefs": [
+        "BO00546"
+      ],
+      "parents": [
+        {
+          "part": "MA01_PR7",
+          "name": "PR7 Scan Blaster Module"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA055",
+      "part": "SA055",
+      "name": "3DP M6, 21 mm long,  Thumb Screw Assembly",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.7.1",
+        "1.9.4"
+      ],
+      "bomRefs": [
+        "BO00226",
+        "BO00242"
+      ],
+      "parents": [
+        {
+          "part": "SA078",
+          "name": "Tail Assembly PR5"
+        },
+        {
+          "part": "SA081",
+          "name": "Phat Tail Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA079",
+      "part": "SA079",
+      "name": "Upper Bay Port Cover Assembly",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.8"
+      ],
+      "bomRefs": [
+        "BO00546"
+      ],
+      "parents": [
+        {
+          "part": "MA01_PR7",
+          "name": "PR7 Scan Blaster Module"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:SA081",
+      "part": "SA081",
+      "name": "Phat Tail Assembly, PR5",
+      "prefix": "SA",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.9"
+      ],
+      "bomRefs": [
+        "BO00546"
+      ],
+      "parents": [
+        {
+          "part": "MA01_PR7",
+          "name": "PR7 Scan Blaster Module"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0023",
+      "part": "CAB0023",
+      "name": "3A Fuse Cable Assembly",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.1.5.1"
+      ],
+      "bomRefs": [
+        "BO00177"
+      ],
+      "parents": [
+        {
+          "part": "SA074",
+          "name": "3A Fuse"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0018",
+      "part": "CAB0018",
+      "name": "Motor Power - Negative",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.1.6"
+      ],
+      "bomRefs": [
+        "BO00432"
+      ],
+      "parents": [
+        {
+          "part": "SA093",
+          "name": "Motherboard Base PR6"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0017",
+      "part": "CAB0017",
+      "name": "Motor Power - Positive",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.1.7"
+      ],
+      "bomRefs": [
+        "BO00432"
+      ],
+      "parents": [
+        {
+          "part": "SA093",
+          "name": "Motherboard Base PR6"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0025",
+      "part": "CAB0025",
+      "name": "Solenoid Cable Assembly, Scan Blaster-side",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.1.8"
+      ],
+      "bomRefs": [
+        "BO00432"
+      ],
+      "parents": [
+        {
+          "part": "SA093",
+          "name": "Motherboard Base PR6"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0019",
+      "part": "CAB0019",
+      "name": "Motor 3 Cable Assembly, Scan Blaster-side",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.1.9"
+      ],
+      "bomRefs": [
+        "BO00432"
+      ],
+      "parents": [
+        {
+          "part": "SA093",
+          "name": "Motherboard Base PR6"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0001",
+      "part": "CAB0001",
+      "name": "AC Power In, Ground",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.1.3"
+      ],
+      "bomRefs": [
+        "SA002"
+      ],
+      "parents": [
+        {
+          "part": "SA002",
+          "name": "Power Supply Base, SA-001"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0002",
+      "part": "CAB0002",
+      "name": "AC Power In, PS Line",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.1.4"
+      ],
+      "bomRefs": [
+        "SA002"
+      ],
+      "parents": [
+        {
+          "part": "SA002",
+          "name": "Power Supply Base, SA-001"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0003",
+      "part": "CAB0003",
+      "name": "AC Power In, PS Neutral",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.1.5"
+      ],
+      "bomRefs": [
+        "SA002"
+      ],
+      "parents": [
+        {
+          "part": "SA002",
+          "name": "Power Supply Base, SA-001"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0005",
+      "part": "CAB0005",
+      "name": "Mini-PC Power Cable Assembly",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.1.6"
+      ],
+      "bomRefs": [
+        "SA002"
+      ],
+      "parents": [
+        {
+          "part": "SA002",
+          "name": "Power Supply Base, SA-001"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0006",
+      "part": "CAB0006",
+      "name": "Power Supply Out, Positive",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.1.7"
+      ],
+      "bomRefs": [
+        "SA002"
+      ],
+      "parents": [
+        {
+          "part": "SA002",
+          "name": "Power Supply Base, SA-001"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0008",
+      "part": "CAB0008",
+      "name": "Rocker Switch to PCB \"12V\"",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.1.8"
+      ],
+      "bomRefs": [
+        "SA002"
+      ],
+      "parents": [
+        {
+          "part": "SA002",
+          "name": "Power Supply Base, SA-001"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0010",
+      "part": "CAB0010",
+      "name": "Run LED Wire",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.1.9"
+      ],
+      "bomRefs": [
+        "SA002"
+      ],
+      "parents": [
+        {
+          "part": "SA002",
+          "name": "Power Supply Base, SA-001"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0011",
+      "part": "CAB0011",
+      "name": "Power LED Wire",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.1.10"
+      ],
+      "bomRefs": [
+        "SA002"
+      ],
+      "parents": [
+        {
+          "part": "SA002",
+          "name": "Power Supply Base, SA-001"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0004",
+      "part": "CAB0004",
+      "name": "Power Supply Ground",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.1.16"
+      ],
+      "bomRefs": [
+        "SA002"
+      ],
+      "parents": [
+        {
+          "part": "SA002",
+          "name": "Power Supply Base, SA-001"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0007",
+      "part": "CAB0007",
+      "name": "Power Supply Out, Negative",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.1.17"
+      ],
+      "bomRefs": [
+        "SA002"
+      ],
+      "parents": [
+        {
+          "part": "SA002",
+          "name": "Power Supply Base, SA-001"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0009",
+      "part": "CAB0009",
+      "name": "Foil LED Wire",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.12.4.1"
+      ],
+      "bomRefs": [
+        "BO00550"
+      ],
+      "parents": [
+        {
+          "part": "SSA013",
+          "name": "Camera Bracket with Foil LEDs"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0016",
+      "part": "CAB0016",
+      "name": "Photosensor 1 Cable",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.13.14"
+      ],
+      "bomRefs": [
+        "BO00390"
+      ],
+      "parents": [
+        {
+          "part": "SA084",
+          "name": "SB Back Wall Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0012",
+      "part": "CAB0012",
+      "name": "Lower LED PCB Cable",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.42"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0013",
+      "part": "CAB0013",
+      "name": "Lower LED PCB Jumper",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.43"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0014",
+      "part": "CAB0014",
+      "name": "Upper LED PCB Cable",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.46"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0015",
+      "part": "CAB0015",
+      "name": "Upper LED PCB Jumper",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.3.2.47"
+      ],
+      "bomRefs": [
+        "BO00392"
+      ],
+      "parents": [
+        {
+          "part": "SA085",
+          "name": "Scanning Bay Assembly, PR5"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:CAB0024",
+      "part": "CAB0024",
+      "name": "Static Brush Cable Assembly",
+      "prefix": "CAB",
+      "module": "Scanner",
+      "category": "Sub-Assemblies",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1.4.6"
+      ],
+      "bomRefs": [
+        "BO00455"
+      ],
+      "parents": [
+        {
+          "part": "SA094",
+          "name": "Static Brush Assembly SBX PR5 and Above"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Scanner:MA01_PR7",
+      "part": "MA01_PR7",
+      "name": "PR7 Scan Blaster Module",
+      "prefix": "MA",
+      "module": "Scanner",
+      "category": "Main Assembly",
+      "family": "PR7 Scan Blaster Module",
+      "paths": [
+        "1"
+      ],
+      "bomRefs": [
+        "BO00587"
+      ],
+      "parents": [],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:INASS006",
+      "part": "INASS006",
+      "name": "Solenoid Bracket + PEM",
+      "prefix": "INASS",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.2.7"
+      ],
+      "bomRefs": [
+        "BO00142"
+      ],
+      "parents": [
+        {
+          "part": "SA058",
+          "name": "Solenoids Housing"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:INASS007",
+      "part": "INASS007",
+      "name": "Motor Halo + PEM",
+      "prefix": "INASS",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.24.13.4"
+      ],
+      "bomRefs": [
+        "BO00198"
+      ],
+      "parents": [
+        {
+          "part": "SA076",
+          "name": "Motor Halo"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:SSA010",
+      "part": "SSA010",
+      "name": "Conveyor Shell",
+      "prefix": "SSA",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.24"
+      ],
+      "bomRefs": [
+        "BO00538"
+      ],
+      "parents": [
+        {
+          "part": "MA02_PR7",
+          "name": "Conveyor Module, PR7"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:SSA008",
+      "part": "SSA008",
+      "name": "Conveyor Front Wall (Taco bars, Metal fab, 3dp walls)",
+      "prefix": "SSA",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.24.1"
+      ],
+      "bomRefs": [
+        "BO00536"
+      ],
+      "parents": [
+        {
+          "part": "SSA010",
+          "name": "Conveyor Shell"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:SSA009",
+      "part": "SSA009",
+      "name": "Conveyor Back Wall (taco bars, metal fab, 3dp walls)",
+      "prefix": "SSA",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.24.2"
+      ],
+      "bomRefs": [
+        "BO00536"
+      ],
+      "parents": [
+        {
+          "part": "SSA010",
+          "name": "Conveyor Shell"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:SSA011",
+      "part": "SSA011",
+      "name": "Motor Block Idler",
+      "prefix": "SSA",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.25"
+      ],
+      "bomRefs": [
+        "BO00538"
+      ],
+      "parents": [
+        {
+          "part": "MA02_PR7",
+          "name": "Conveyor Module, PR7"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:SA036",
+      "part": "SA036",
+      "name": "M3 Conveyor Motor Assembly, MA-02",
+      "prefix": "SA",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.1"
+      ],
+      "bomRefs": [
+        "BO00538"
+      ],
+      "parents": [
+        {
+          "part": "MA02_PR7",
+          "name": "Conveyor Module, PR7"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:SA058",
+      "part": "SA058",
+      "name": "Solenoids Housing",
+      "prefix": "SA",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.2"
+      ],
+      "bomRefs": [
+        "BO00538"
+      ],
+      "parents": [
+        {
+          "part": "MA02_PR7",
+          "name": "Conveyor Module, PR7"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:SA052",
+      "part": "SA052",
+      "name": "Solenoid Side Mounting, MA-02",
+      "prefix": "SA",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.2.2"
+      ],
+      "bomRefs": [
+        "BO00142"
+      ],
+      "parents": [
+        {
+          "part": "SA058",
+          "name": "Solenoids Housing"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:SA022",
+      "part": "SA022",
+      "name": "Belt-driven Roller Assembly",
+      "prefix": "SA",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.3",
+        "3.24.4"
+      ],
+      "bomRefs": [
+        "BO00538",
+        "BO00536"
+      ],
+      "parents": [
+        {
+          "part": "MA02_PR7",
+          "name": "Conveyor Module, PR7"
+        },
+        {
+          "part": "SSA010",
+          "name": "Conveyor Shell"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:SA016",
+      "part": "SA016",
+      "name": "Gear Driven Roller Assembly, SA-003, Rollers",
+      "prefix": "SA",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.4",
+        "3.24.3"
+      ],
+      "bomRefs": [
+        "BO00538",
+        "BO00536"
+      ],
+      "parents": [
+        {
+          "part": "MA02_PR7",
+          "name": "Conveyor Module, PR7"
+        },
+        {
+          "part": "SSA010",
+          "name": "Conveyor Shell"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:SA067",
+      "part": "SA067",
+      "name": "3D Printed Front Bearing Wall #1",
+      "prefix": "SA",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.24.1.2"
+      ],
+      "bomRefs": [
+        "BO00534"
+      ],
+      "parents": [
+        {
+          "part": "SSA008",
+          "name": "Conveyor Front Wall (Taco bars, Metal fab, 3dp walls)"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:SA068",
+      "part": "SA068",
+      "name": "3D Printed Front Bearing Wall #2",
+      "prefix": "SA",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.24.1.3"
+      ],
+      "bomRefs": [
+        "BO00534"
+      ],
+      "parents": [
+        {
+          "part": "SSA008",
+          "name": "Conveyor Front Wall (Taco bars, Metal fab, 3dp walls)"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:SA069",
+      "part": "SA069",
+      "name": "3D Printed Front Bearing Wall #3",
+      "prefix": "SA",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.24.1.4"
+      ],
+      "bomRefs": [
+        "BO00534"
+      ],
+      "parents": [
+        {
+          "part": "SSA008",
+          "name": "Conveyor Front Wall (Taco bars, Metal fab, 3dp walls)"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:SA070",
+      "part": "SA070",
+      "name": "3D Printed Front Bearing Wall #4",
+      "prefix": "SA",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.24.1.5"
+      ],
+      "bomRefs": [
+        "BO00534"
+      ],
+      "parents": [
+        {
+          "part": "SSA008",
+          "name": "Conveyor Front Wall (Taco bars, Metal fab, 3dp walls)"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:SA063",
+      "part": "SA063",
+      "name": "3D Printed Back Bearing Wall #1",
+      "prefix": "SA",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.24.2.1"
+      ],
+      "bomRefs": [
+        "BO00533"
+      ],
+      "parents": [
+        {
+          "part": "SSA009",
+          "name": "Conveyor Back Wall (taco bars, metal fab, 3dp walls)"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:SA064",
+      "part": "SA064",
+      "name": "3D Printed Back Bearing Wall #2",
+      "prefix": "SA",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.24.2.2"
+      ],
+      "bomRefs": [
+        "BO00533"
+      ],
+      "parents": [
+        {
+          "part": "SSA009",
+          "name": "Conveyor Back Wall (taco bars, metal fab, 3dp walls)"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:SA065",
+      "part": "SA065",
+      "name": "3D Printed Back Bearing Wall #3",
+      "prefix": "SA",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.24.2.3"
+      ],
+      "bomRefs": [
+        "BO00533"
+      ],
+      "parents": [
+        {
+          "part": "SSA009",
+          "name": "Conveyor Back Wall (taco bars, metal fab, 3dp walls)"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:SA066",
+      "part": "SA066",
+      "name": "3D Printed Back Bearing Wall #4",
+      "prefix": "SA",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.24.2.4"
+      ],
+      "bomRefs": [
+        "BO00533"
+      ],
+      "parents": [
+        {
+          "part": "SSA009",
+          "name": "Conveyor Back Wall (taco bars, metal fab, 3dp walls)"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:SA073",
+      "part": "SA073",
+      "name": "King Flapper Assembly",
+      "prefix": "SA",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.24.5"
+      ],
+      "bomRefs": [
+        "BO00536"
+      ],
+      "parents": [
+        {
+          "part": "SSA010",
+          "name": "Conveyor Shell"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:SA107",
+      "part": "SA107",
+      "name": "Belt-driven Roller Assembly, Steel Shaft",
+      "prefix": "SA",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.24.11"
+      ],
+      "bomRefs": [
+        "BO00536"
+      ],
+      "parents": [
+        {
+          "part": "SSA010",
+          "name": "Conveyor Shell"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:SA076",
+      "part": "SA076",
+      "name": "Motor Halo",
+      "prefix": "SA",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.24.13"
+      ],
+      "bomRefs": [
+        "BO00536"
+      ],
+      "parents": [
+        {
+          "part": "SSA010",
+          "name": "Conveyor Shell"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:CAB0020",
+      "part": "CAB0020",
+      "name": "Motor 3 Cable Assembly, Conveyor-side",
+      "prefix": "CAB",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.1.12"
+      ],
+      "bomRefs": [
+        "SA036"
+      ],
+      "parents": [
+        {
+          "part": "SA036",
+          "name": "M3 Conveyor Motor Assembly, MA-02"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:CAB0022",
+      "part": "CAB0022",
+      "name": "Solenoid Cable Assembly, Conveyor-side",
+      "prefix": "CAB",
+      "module": "Conveyor",
+      "category": "Sub-Assemblies",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3.23"
+      ],
+      "bomRefs": [
+        "BO00538"
+      ],
+      "parents": [
+        {
+          "part": "MA02_PR7",
+          "name": "Conveyor Module, PR7"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:MA02_PR7",
+      "part": "MA02_PR7",
+      "name": "Conveyor Module, PR7",
+      "prefix": "MA",
+      "module": "Conveyor",
+      "category": "Main Assembly",
+      "family": "Conveyor Module, PR7",
+      "paths": [
+        "3"
+      ],
+      "bomRefs": [
+        "BO00587"
+      ],
+      "parents": [],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Conveyor:MA03_PR6",
+      "part": "MA03_PR6",
+      "name": "Conveyor Cover Module",
+      "prefix": "MA",
+      "module": "Conveyor",
+      "category": "Main Assembly",
+      "family": "Conveyor Cover Module",
+      "paths": [
+        "4"
+      ],
+      "bomRefs": [
+        "BO00587"
+      ],
+      "parents": [],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:INASS004",
+      "part": "INASS004",
+      "name": "Piston Top Cap + Nut",
+      "prefix": "INASS",
+      "module": "Chassis",
+      "category": "Sub-Assemblies",
+      "family": "Chassis Module, PR7",
+      "paths": [
+        "5.1.3.9"
+      ],
+      "bomRefs": [
+        "BO00529"
+      ],
+      "parents": [
+        {
+          "part": "SSA001",
+          "name": "Card Plunger"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:INASS001",
+      "part": "INASS001",
+      "name": "Storage Box Hinge + PEM",
+      "prefix": "INASS",
+      "module": "Chassis",
+      "category": "Sub-Assemblies",
+      "family": "Chassis Module, PR7",
+      "paths": [
+        "5.14.10"
+      ],
+      "bomRefs": [
+        "BO00526"
+      ],
+      "parents": [
+        {
+          "part": "SSA007",
+          "name": "Storage Box Small Assembly"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:INASS031",
+      "part": "INASS031",
+      "name": "Storage Base Hinge Mount + PEM",
+      "prefix": "INASS",
+      "module": "Chassis",
+      "category": "Sub-Assemblies",
+      "family": "Chassis Module, PR7",
+      "paths": [
+        "5.14.12"
+      ],
+      "bomRefs": [
+        "BO00526"
+      ],
+      "parents": [
+        {
+          "part": "SSA007",
+          "name": "Storage Box Small Assembly"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:INASS005",
+      "part": "INASS005",
+      "name": "Piston Bracket + Nut",
+      "prefix": "INASS",
+      "module": "Chassis",
+      "category": "Sub-Assemblies",
+      "family": "Chassis Module, PR7",
+      "paths": [
+        "5.15"
+      ],
+      "bomRefs": [
+        "BO00525"
+      ],
+      "parents": [
+        {
+          "part": "MA04_PR7",
+          "name": "Chassis Module, PR7"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:SSA001",
+      "part": "SSA001",
+      "name": "Card Plunger",
+      "prefix": "SSA",
+      "module": "Chassis",
+      "category": "Sub-Assemblies",
+      "family": "Chassis Module, PR7",
+      "paths": [
+        "5.1.3"
+      ],
+      "bomRefs": [
+        "BO00243"
+      ],
+      "parents": [
+        {
+          "part": "SA082",
+          "name": "Modular Spring Piston Assembly, MA-04"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:SSA007",
+      "part": "SSA007",
+      "name": "Storage Box Small Assembly",
+      "prefix": "SSA",
+      "module": "Chassis",
+      "category": "Sub-Assemblies",
+      "family": "Chassis Module, PR7",
+      "paths": [
+        "5.14"
+      ],
+      "bomRefs": [
+        "BO00525"
+      ],
+      "parents": [
+        {
+          "part": "MA04_PR7",
+          "name": "Chassis Module, PR7"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:SA082",
+      "part": "SA082",
+      "name": "Modular Spring Piston Assembly, MA-04",
+      "prefix": "SA",
+      "module": "Chassis",
+      "category": "Sub-Assemblies",
+      "family": "Chassis Module, PR7",
+      "paths": [
+        "5.1"
+      ],
+      "bomRefs": [
+        "BO00525"
+      ],
+      "parents": [
+        {
+          "part": "MA04_PR7",
+          "name": "Chassis Module, PR7"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:SA049",
+      "part": "SA049",
+      "name": "3DP M6, 18mm long,  Thumb Screw Assembly",
+      "prefix": "SA",
+      "module": "Chassis",
+      "category": "Sub-Assemblies",
+      "family": "Chassis Module, PR7",
+      "paths": [
+        "5.14.2"
+      ],
+      "bomRefs": [
+        "BO00526"
+      ],
+      "parents": [
+        {
+          "part": "SSA007",
+          "name": "Storage Box Small Assembly"
+        }
+      ],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:SA051",
+      "part": "SA051",
+      "name": "Hopper Sliding Lid, MA-05",
+      "prefix": "SA",
+      "module": "Chassis",
+      "category": "Sub-Assemblies",
+      "family": "Accessories / supporting assemblies (review)",
+      "paths": [
+        "6.2"
+      ],
+      "bomRefs": [
+        "MA05"
+      ],
+      "parents": [
+        {
+          "part": "MA05",
+          "name": "Hopper Module"
+        }
+      ],
+      "provisional": true,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:SA100",
+      "part": "SA100",
+      "name": "M3X16  Knob Screw",
+      "prefix": "SA",
+      "module": "Chassis",
+      "category": "Sub-Assemblies",
+      "family": "Accessories / supporting assemblies (review)",
+      "paths": [
+        "8.1.5",
+        "8.10.9"
+      ],
+      "bomRefs": [
+        "BO00434",
+        "BO00575"
+      ],
+      "parents": [
+        {
+          "part": "MA011",
+          "name": "Bin 1 Module"
+        },
+        {
+          "part": "KIT019",
+          "name": "Spare Parts Bento Box"
+        }
+      ],
+      "provisional": true,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:SA081",
+      "part": "SA081",
+      "name": "Phat Tail Assembly, PR5",
+      "prefix": "SA",
+      "module": "Chassis",
+      "category": "Sub-Assemblies",
+      "family": "Accessories / supporting assemblies (review)",
+      "paths": [
+        "8.10.3"
+      ],
+      "bomRefs": [
+        "BO00575"
+      ],
+      "parents": [
+        {
+          "part": "KIT019",
+          "name": "Spare Parts Bento Box"
+        }
+      ],
+      "provisional": true,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:SA055",
+      "part": "SA055",
+      "name": "3DP M6, 21 mm long,  Thumb Screw Assembly",
+      "prefix": "SA",
+      "module": "Chassis",
+      "category": "Sub-Assemblies",
+      "family": "Accessories / supporting assemblies (review)",
+      "paths": [
+        "8.10.3.4",
+        "8.10.4.1",
+        "10"
+      ],
+      "bomRefs": [
+        "BO00242",
+        "BO00226",
+        "BO00587"
+      ],
+      "parents": [
+        {
+          "part": "SA081",
+          "name": "Phat Tail Assembly, PR5"
+        },
+        {
+          "part": "SA078",
+          "name": "Tail Assembly PR5"
+        }
+      ],
+      "provisional": true,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:SA078",
+      "part": "SA078",
+      "name": "Tail Assembly PR5",
+      "prefix": "SA",
+      "module": "Chassis",
+      "category": "Sub-Assemblies",
+      "family": "Accessories / supporting assemblies (review)",
+      "paths": [
+        "8.10.4"
+      ],
+      "bomRefs": [
+        "BO00575"
+      ],
+      "parents": [
+        {
+          "part": "KIT019",
+          "name": "Spare Parts Bento Box"
+        }
+      ],
+      "provisional": true,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:SA053",
+      "part": "SA053",
+      "name": "3DP M6, 12mm long,  Thumb Screw Assembly",
+      "prefix": "SA",
+      "module": "Chassis",
+      "category": "Sub-Assemblies",
+      "family": "Accessories / supporting assemblies (review)",
+      "paths": [
+        "8.10.7",
+        "9"
+      ],
+      "bomRefs": [
+        "BO00575",
+        "BO00587"
+      ],
+      "parents": [
+        {
+          "part": "KIT019",
+          "name": "Spare Parts Bento Box"
+        }
+      ],
+      "provisional": true,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:SA106",
+      "part": "SA106",
+      "name": "Roller cleaner",
+      "prefix": "SA",
+      "module": "Chassis",
+      "category": "Sub-Assemblies",
+      "family": "Accessories / supporting assemblies (review)",
+      "paths": [
+        "8.10.25"
+      ],
+      "bomRefs": [
+        "BO00575"
+      ],
+      "parents": [
+        {
+          "part": "KIT019",
+          "name": "Spare Parts Bento Box"
+        }
+      ],
+      "provisional": true,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:SA104",
+      "part": "SA104",
+      "name": "Hopper guard RHS",
+      "prefix": "SA",
+      "module": "Chassis",
+      "category": "Sub-Assemblies",
+      "family": "Accessories / supporting assemblies (review)",
+      "paths": [
+        "8.12"
+      ],
+      "bomRefs": [
+        "BO00241"
+      ],
+      "parents": [
+        {
+          "part": "MA012",
+          "name": "Accessory Kit - PR5 and Up"
+        }
+      ],
+      "provisional": true,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:SA105",
+      "part": "SA105",
+      "name": "Hopper guard LHS",
+      "prefix": "SA",
+      "module": "Chassis",
+      "category": "Sub-Assemblies",
+      "family": "Accessories / supporting assemblies (review)",
+      "paths": [
+        "8.13"
+      ],
+      "bomRefs": [
+        "BO00241"
+      ],
+      "parents": [
+        {
+          "part": "MA012",
+          "name": "Accessory Kit - PR5 and Up"
+        }
+      ],
+      "provisional": true,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:MA04_PR7",
+      "part": "MA04_PR7",
+      "name": "Chassis Module, PR7",
+      "prefix": "MA",
+      "module": "Chassis",
+      "category": "Main Assembly",
+      "family": "Chassis Module, PR7",
+      "paths": [
+        "5"
+      ],
+      "bomRefs": [
+        "BO00587"
+      ],
+      "parents": [],
+      "provisional": false,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:MA05",
+      "part": "MA05",
+      "name": "Hopper Module",
+      "prefix": "MA",
+      "module": "Chassis",
+      "category": "Main Assembly",
+      "family": "Accessories / supporting assemblies (review)",
+      "paths": [
+        "6"
+      ],
+      "bomRefs": [
+        "BO00587"
+      ],
+      "parents": [],
+      "provisional": true,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:MA07",
+      "part": "MA07",
+      "name": "Card Weight Module",
+      "prefix": "MA",
+      "module": "Chassis",
+      "category": "Main Assembly",
+      "family": "Accessories / supporting assemblies (review)",
+      "paths": [
+        "7",
+        "8.14"
+      ],
+      "bomRefs": [
+        "BO00587",
+        "BO00241"
+      ],
+      "parents": [
+        {
+          "part": "MA012",
+          "name": "Accessory Kit - PR5 and Up"
+        }
+      ],
+      "provisional": true,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:MA012",
+      "part": "MA012",
+      "name": "Accessory Kit - PR5 and Up",
+      "prefix": "MA",
+      "module": "Chassis",
+      "category": "Main Assembly",
+      "family": "Accessories / supporting assemblies (review)",
+      "paths": [
+        "8"
+      ],
+      "bomRefs": [
+        "BO00587"
+      ],
+      "parents": [],
+      "provisional": true,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    },
+    {
+      "id": "Chassis:MA011",
+      "part": "MA011",
+      "name": "Bin 1 Module",
+      "prefix": "MA",
+      "module": "Chassis",
+      "category": "Main Assembly",
+      "family": "Accessories / supporting assemblies (review)",
+      "paths": [
+        "8.1"
+      ],
+      "bomRefs": [
+        "BO00241"
+      ],
+      "parents": [
+        {
+          "part": "MA012",
+          "name": "Accessory Kit - PR5 and Up"
+        }
+      ],
+      "provisional": true,
+      "source": "BO00587 (BOM candidate)",
+      "sop": "unchecked",
+      "sopLink": "",
+      "notes": "Suggested training skill based on BOM assembly entry; verify the actual procedure and sign-off criteria."
+    }
+  ],
+  "roles": [
+    {
+      "id": "role:Scanner:INASS",
+      "name": "Scanner — Insert Assembly",
+      "department": "Sub-Assemblies",
+      "module": "Scanner",
+      "description": "Proposed workstream based on INASS-prefixed BOM entries. Edit the required skills and responsibilities before using for staffing decisions.",
+      "skillIds": [
+        "Scanner:INASS025",
+        "Scanner:INASS026",
+        "Scanner:INASS028",
+        "Scanner:INASS021",
+        "Scanner:INASS022",
+        "Scanner:INASS023",
+        "Scanner:INASS024",
+        "Scanner:INASS029",
+        "Scanner:INASS017",
+        "Scanner:INASS016",
+        "Scanner:INASS011",
+        "Scanner:INASS012",
+        "Scanner:INASS013",
+        "Scanner:INASS014",
+        "Scanner:INASS015",
+        "Scanner:INASS020",
+        "Scanner:INASS018",
+        "Scanner:INASS019"
+      ],
+      "primary": "",
+      "backup": "",
+      "notes": "Initial grouping is a draft, not an approved job definition."
+    },
+    {
+      "id": "role:Scanner:SSA",
+      "name": "Scanner — Small Assembly",
+      "department": "Sub-Assemblies",
+      "module": "Scanner",
+      "description": "Proposed workstream based on SSA-prefixed BOM entries. Edit the required skills and responsibilities before using for staffing decisions.",
+      "skillIds": [
+        "Scanner:SSA015",
+        "Scanner:SSA004",
+        "Scanner:SSA005",
+        "Scanner:SSA006",
+        "Scanner:SSA014",
+        "Scanner:SSA013",
+        "Scanner:SSA003"
+      ],
+      "primary": "",
+      "backup": "",
+      "notes": "Initial grouping is a draft, not an approved job definition."
+    },
+    {
+      "id": "role:Scanner:SA",
+      "name": "Scanner — Sub-Assembly",
+      "department": "Sub-Assemblies",
+      "module": "Scanner",
+      "description": "Proposed workstream based on SA-prefixed BOM entries. Edit the required skills and responsibilities before using for staffing decisions.",
+      "skillIds": [
+        "Scanner:SA037",
+        "Scanner:SA096",
+        "Scanner:SA087",
+        "Scanner:SA097",
+        "Scanner:SA088",
+        "Scanner:SA093",
+        "Scanner:SA074",
+        "Scanner:SA085",
+        "Scanner:SA002",
+        "Scanner:SA071",
+        "Scanner:SA098",
+        "Scanner:SA016",
+        "Scanner:SA018",
+        "Scanner:SA022",
+        "Scanner:SA023",
+        "Scanner:SA007",
+        "Scanner:SA027",
+        "Scanner:SA034",
+        "Scanner:SA053",
+        "Scanner:SA060",
+        "Scanner:SA061",
+        "Scanner:SA062",
+        "Scanner:SA083",
+        "Scanner:SA084",
+        "Scanner:SA006",
+        "Scanner:SA092",
+        "Scanner:SA086",
+        "Scanner:SA089",
+        "Scanner:SA045",
+        "Scanner:SA047",
+        "Scanner:SA090",
+        "Scanner:SA091",
+        "Scanner:SA095",
+        "Scanner:SA099",
+        "Scanner:SA094",
+        "Scanner:SA039",
+        "Scanner:SA077",
+        "Scanner:SA078",
+        "Scanner:SA055",
+        "Scanner:SA079",
+        "Scanner:SA081"
+      ],
+      "primary": "",
+      "backup": "",
+      "notes": "Initial grouping is a draft, not an approved job definition."
+    },
+    {
+      "id": "role:Scanner:CAB",
+      "name": "Scanner — Cable Assembly",
+      "department": "Sub-Assemblies",
+      "module": "Scanner",
+      "description": "Proposed workstream based on CAB-prefixed BOM entries. Edit the required skills and responsibilities before using for staffing decisions.",
+      "skillIds": [
+        "Scanner:CAB0023",
+        "Scanner:CAB0018",
+        "Scanner:CAB0017",
+        "Scanner:CAB0025",
+        "Scanner:CAB0019",
+        "Scanner:CAB0001",
+        "Scanner:CAB0002",
+        "Scanner:CAB0003",
+        "Scanner:CAB0005",
+        "Scanner:CAB0006",
+        "Scanner:CAB0008",
+        "Scanner:CAB0010",
+        "Scanner:CAB0011",
+        "Scanner:CAB0004",
+        "Scanner:CAB0007",
+        "Scanner:CAB0009",
+        "Scanner:CAB0016",
+        "Scanner:CAB0012",
+        "Scanner:CAB0013",
+        "Scanner:CAB0014",
+        "Scanner:CAB0015",
+        "Scanner:CAB0024"
+      ],
+      "primary": "",
+      "backup": "",
+      "notes": "Initial grouping is a draft, not an approved job definition."
+    },
+    {
+      "id": "role:Scanner:MA",
+      "name": "Scanner — Module / Main Assembly",
+      "department": "Main Assembly",
+      "module": "Scanner",
+      "description": "Proposed workstream based on MA-prefixed BOM entries. Edit the required skills and responsibilities before using for staffing decisions.",
+      "skillIds": [
+        "Scanner:MA01_PR7"
+      ],
+      "primary": "",
+      "backup": "",
+      "notes": "Initial grouping is a draft, not an approved job definition."
+    },
+    {
+      "id": "role:Conveyor:INASS",
+      "name": "Conveyor — Insert Assembly",
+      "department": "Sub-Assemblies",
+      "module": "Conveyor",
+      "description": "Proposed workstream based on INASS-prefixed BOM entries. Edit the required skills and responsibilities before using for staffing decisions.",
+      "skillIds": [
+        "Conveyor:INASS006",
+        "Conveyor:INASS007"
+      ],
+      "primary": "",
+      "backup": "",
+      "notes": "Initial grouping is a draft, not an approved job definition."
+    },
+    {
+      "id": "role:Conveyor:SSA",
+      "name": "Conveyor — Small Assembly",
+      "department": "Sub-Assemblies",
+      "module": "Conveyor",
+      "description": "Proposed workstream based on SSA-prefixed BOM entries. Edit the required skills and responsibilities before using for staffing decisions.",
+      "skillIds": [
+        "Conveyor:SSA010",
+        "Conveyor:SSA008",
+        "Conveyor:SSA009",
+        "Conveyor:SSA011"
+      ],
+      "primary": "",
+      "backup": "",
+      "notes": "Initial grouping is a draft, not an approved job definition."
+    },
+    {
+      "id": "role:Conveyor:SA",
+      "name": "Conveyor — Sub-Assembly",
+      "department": "Sub-Assemblies",
+      "module": "Conveyor",
+      "description": "Proposed workstream based on SA-prefixed BOM entries. Edit the required skills and responsibilities before using for staffing decisions.",
+      "skillIds": [
+        "Conveyor:SA036",
+        "Conveyor:SA058",
+        "Conveyor:SA052",
+        "Conveyor:SA022",
+        "Conveyor:SA016",
+        "Conveyor:SA067",
+        "Conveyor:SA068",
+        "Conveyor:SA069",
+        "Conveyor:SA070",
+        "Conveyor:SA063",
+        "Conveyor:SA064",
+        "Conveyor:SA065",
+        "Conveyor:SA066",
+        "Conveyor:SA073",
+        "Conveyor:SA107",
+        "Conveyor:SA076"
+      ],
+      "primary": "",
+      "backup": "",
+      "notes": "Initial grouping is a draft, not an approved job definition."
+    },
+    {
+      "id": "role:Conveyor:CAB",
+      "name": "Conveyor — Cable Assembly",
+      "department": "Sub-Assemblies",
+      "module": "Conveyor",
+      "description": "Proposed workstream based on CAB-prefixed BOM entries. Edit the required skills and responsibilities before using for staffing decisions.",
+      "skillIds": [
+        "Conveyor:CAB0020",
+        "Conveyor:CAB0022"
+      ],
+      "primary": "",
+      "backup": "",
+      "notes": "Initial grouping is a draft, not an approved job definition."
+    },
+    {
+      "id": "role:Conveyor:MA",
+      "name": "Conveyor — Module / Main Assembly",
+      "department": "Main Assembly",
+      "module": "Conveyor",
+      "description": "Proposed workstream based on MA-prefixed BOM entries. Edit the required skills and responsibilities before using for staffing decisions.",
+      "skillIds": [
+        "Conveyor:MA02_PR7",
+        "Conveyor:MA03_PR6"
+      ],
+      "primary": "",
+      "backup": "",
+      "notes": "Initial grouping is a draft, not an approved job definition."
+    },
+    {
+      "id": "role:Chassis:INASS",
+      "name": "Chassis — Insert Assembly",
+      "department": "Sub-Assemblies",
+      "module": "Chassis",
+      "description": "Proposed workstream based on INASS-prefixed BOM entries. Edit the required skills and responsibilities before using for staffing decisions.",
+      "skillIds": [
+        "Chassis:INASS004",
+        "Chassis:INASS001",
+        "Chassis:INASS031",
+        "Chassis:INASS005"
+      ],
+      "primary": "",
+      "backup": "",
+      "notes": "Initial grouping is a draft, not an approved job definition."
+    },
+    {
+      "id": "role:Chassis:SSA",
+      "name": "Chassis — Small Assembly",
+      "department": "Sub-Assemblies",
+      "module": "Chassis",
+      "description": "Proposed workstream based on SSA-prefixed BOM entries. Edit the required skills and responsibilities before using for staffing decisions.",
+      "skillIds": [
+        "Chassis:SSA001",
+        "Chassis:SSA007"
+      ],
+      "primary": "",
+      "backup": "",
+      "notes": "Initial grouping is a draft, not an approved job definition."
+    },
+    {
+      "id": "role:Chassis:SA",
+      "name": "Chassis — Sub-Assembly",
+      "department": "Sub-Assemblies",
+      "module": "Chassis",
+      "description": "Proposed workstream based on SA-prefixed BOM entries. Edit the required skills and responsibilities before using for staffing decisions.",
+      "skillIds": [
+        "Chassis:SA082",
+        "Chassis:SA049",
+        "Chassis:SA051",
+        "Chassis:SA100",
+        "Chassis:SA081",
+        "Chassis:SA055",
+        "Chassis:SA078",
+        "Chassis:SA053",
+        "Chassis:SA106",
+        "Chassis:SA104",
+        "Chassis:SA105"
+      ],
+      "primary": "",
+      "backup": "",
+      "notes": "Initial grouping is a draft, not an approved job definition."
+    },
+    {
+      "id": "role:Chassis:MA",
+      "name": "Chassis — Module / Main Assembly",
+      "department": "Main Assembly",
+      "module": "Chassis",
+      "description": "Proposed workstream based on MA-prefixed BOM entries. Edit the required skills and responsibilities before using for staffing decisions.",
+      "skillIds": [
+        "Chassis:MA04_PR7",
+        "Chassis:MA05",
+        "Chassis:MA07",
+        "Chassis:MA012",
+        "Chassis:MA011"
+      ],
+      "primary": "",
+      "backup": "",
+      "notes": "Initial grouping is a draft, not an approved job definition."
+    }
+  ],
+  "scaffold": [
+    {
+      "name": "Inventory",
+      "modules": []
+    },
+    {
+      "name": "3D Printing Procedures",
+      "modules": []
+    },
+    {
+      "name": "Sub-Assemblies",
+      "modules": [
+        "Scanner",
+        "Conveyor",
+        "Chassis"
+      ]
+    },
+    {
+      "name": "Main Assembly",
+      "modules": [
+        "Scanner",
+        "Conveyor",
+        "Chassis"
+      ]
+    },
+    {
+      "name": "Refurb Procedures",
+      "modules": [
+        "Scanner",
+        "Conveyor",
+        "Chassis"
+      ]
+    },
+    {
+      "name": "QC & Pre-Testing",
+      "modules": [
+        "Scanner",
+        "Conveyor",
+        "Chassis"
+      ]
+    },
+    {
+      "name": "Testing Skills",
+      "modules": []
+    },
+    {
+      "name": "Shipping & Logistics",
+      "modules": []
+    }
+  ],
+  "employees": [],
+  "awards": {},
+  "trainingRequests": [],
+  "audit": []
+}
